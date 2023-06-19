@@ -1,0 +1,8 @@
+d:\Users\popular\Documents\CursoCSharp\nivelBasico\Solucion_CSharp_NivelBasico\Pj_HolaMundo\bin\Debug\Pj_HolaMundo.exe.config
+d:\Users\popular\Documents\CursoCSharp\nivelBasico\Solucion_CSharp_NivelBasico\Pj_HolaMundo\bin\Debug\Pj_HolaMundo.exe
+d:\Users\popular\Documents\CursoCSharp\nivelBasico\Solucion_CSharp_NivelBasico\Pj_HolaMundo\bin\Debug\Pj_HolaMundo.pdb
+d:\Users\popular\Documents\CursoCSharp\nivelBasico\Solucion_CSharp_NivelBasico\Pj_HolaMundo\obj\Debug\Pj_HolaMundo.csproj.AssemblyReference.cache
+d:\Users\popular\Documents\CursoCSharp\nivelBasico\Solucion_CSharp_NivelBasico\Pj_HolaMundo\obj\Debug\Pj_HolaMundo.csproj.SuggestedBindingRedirects.cache
+d:\Users\popular\Documents\CursoCSharp\nivelBasico\Solucion_CSharp_NivelBasico\Pj_HolaMundo\obj\Debug\Pj_HolaMundo.csproj.CoreCompileInputs.cache
+d:\Users\popular\Documents\CursoCSharp\nivelBasico\Solucion_CSharp_NivelBasico\Pj_HolaMundo\obj\Debug\Pj_HolaMundo.exe
+d:\Users\popular\Documents\CursoCSharp\nivelBasico\Solucion_CSharp_NivelBasico\Pj_HolaMundo\obj\Debug\Pj_HolaMundo.pdb

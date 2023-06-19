@@ -1,0 +1,8 @@
+d:\Users\popular\Documents\CursoCSharp\nivelBasico\Solucion_CSharp_NivelBasico\Vectores\bin\Debug\Vectores.exe.config
+d:\Users\popular\Documents\CursoCSharp\nivelBasico\Solucion_CSharp_NivelBasico\Vectores\bin\Debug\Vectores.exe
+d:\Users\popular\Documents\CursoCSharp\nivelBasico\Solucion_CSharp_NivelBasico\Vectores\bin\Debug\Vectores.pdb
+d:\Users\popular\Documents\CursoCSharp\nivelBasico\Solucion_CSharp_NivelBasico\Vectores\obj\Debug\Vectores.csproj.AssemblyReference.cache
+d:\Users\popular\Documents\CursoCSharp\nivelBasico\Solucion_CSharp_NivelBasico\Vectores\obj\Debug\Vectores.csproj.SuggestedBindingRedirects.cache
+d:\Users\popular\Documents\CursoCSharp\nivelBasico\Solucion_CSharp_NivelBasico\Vectores\obj\Debug\Vectores.csproj.CoreCompileInputs.cache
+d:\Users\popular\Documents\CursoCSharp\nivelBasico\Solucion_CSharp_NivelBasico\Vectores\obj\Debug\Vectores.exe
+d:\Users\popular\Documents\CursoCSharp\nivelBasico\Solucion_CSharp_NivelBasico\Vectores\obj\Debug\Vectores.pdb

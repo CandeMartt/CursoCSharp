@@ -1,0 +1,8 @@
+d:\Users\popular\Documents\CursoCSharp\nivelBasico\Solucion_CSharp_NivelBasico\Excepciones\bin\Debug\Excepciones.exe.config
+d:\Users\popular\Documents\CursoCSharp\nivelBasico\Solucion_CSharp_NivelBasico\Excepciones\bin\Debug\Excepciones.exe
+d:\Users\popular\Documents\CursoCSharp\nivelBasico\Solucion_CSharp_NivelBasico\Excepciones\bin\Debug\Excepciones.pdb
+d:\Users\popular\Documents\CursoCSharp\nivelBasico\Solucion_CSharp_NivelBasico\Excepciones\obj\Debug\Excepciones.csproj.AssemblyReference.cache
+d:\Users\popular\Documents\CursoCSharp\nivelBasico\Solucion_CSharp_NivelBasico\Excepciones\obj\Debug\Excepciones.csproj.SuggestedBindingRedirects.cache
+d:\Users\popular\Documents\CursoCSharp\nivelBasico\Solucion_CSharp_NivelBasico\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+d:\Users\popular\Documents\CursoCSharp\nivelBasico\Solucion_CSharp_NivelBasico\Excepciones\obj\Debug\Excepciones.exe
+d:\Users\popular\Documents\CursoCSharp\nivelBasico\Solucion_CSharp_NivelBasico\Excepciones\obj\Debug\Excepciones.pdb

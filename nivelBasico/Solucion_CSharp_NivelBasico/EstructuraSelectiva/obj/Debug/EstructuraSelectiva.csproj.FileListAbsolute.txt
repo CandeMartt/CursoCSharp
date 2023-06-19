@@ -1,0 +1,8 @@
+d:\Users\popular\Documents\CursoCSharp\nivelBasico\Solucion_CSharp_NivelBasico\EstructuraSelectiva\bin\Debug\EstructuraSelectiva.exe.config
+d:\Users\popular\Documents\CursoCSharp\nivelBasico\Solucion_CSharp_NivelBasico\EstructuraSelectiva\bin\Debug\EstructuraSelectiva.exe
+d:\Users\popular\Documents\CursoCSharp\nivelBasico\Solucion_CSharp_NivelBasico\EstructuraSelectiva\bin\Debug\EstructuraSelectiva.pdb
+d:\Users\popular\Documents\CursoCSharp\nivelBasico\Solucion_CSharp_NivelBasico\EstructuraSelectiva\obj\Debug\EstructuraSelectiva.csproj.AssemblyReference.cache
+d:\Users\popular\Documents\CursoCSharp\nivelBasico\Solucion_CSharp_NivelBasico\EstructuraSelectiva\obj\Debug\EstructuraSelectiva.csproj.SuggestedBindingRedirects.cache
+d:\Users\popular\Documents\CursoCSharp\nivelBasico\Solucion_CSharp_NivelBasico\EstructuraSelectiva\obj\Debug\EstructuraSelectiva.csproj.CoreCompileInputs.cache
+d:\Users\popular\Documents\CursoCSharp\nivelBasico\Solucion_CSharp_NivelBasico\EstructuraSelectiva\obj\Debug\EstructuraSelectiva.exe
+d:\Users\popular\Documents\CursoCSharp\nivelBasico\Solucion_CSharp_NivelBasico\EstructuraSelectiva\obj\Debug\EstructuraSelectiva.pdb
